@@ -1,3 +1,6 @@
+require_once '../Zend/Controller/Action.php';
+require_once '../Zend/Controller/Plugin/ErrorHandler.php';
+
 class ErrorController extends Zend_Controller_Action
 {
  
